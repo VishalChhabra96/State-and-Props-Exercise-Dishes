@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+}
+.container{
+    text-align: center;
+    border: 1px solid cadetblue;
+    margin: 20px auto;
+    width: 40%;
+    position: relative;
+    height: 550px;
+    padding: 20px 0px;
+    background-color:darkgrey;
+}
+.App {
+
+    border: 1px solid white;
+    margin: 20px auto;
+    width: 85%;
+    position: relative;
+    height: 400px;
+    display: inline-block;
+    overflow: auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+button{
+    padding: 10px 20px;
+    color:white;
+    background-color: black;
+}
+.dishContainer {
+    width: auto;
+    height: 50px;
+    padding: 10px;
+    color:white;
+    background-color: black;
+    margin: 10px 20px;
+
+}
+
+
+
